@@ -1,2 +1,0 @@
-# Hidden-Comment
-Amplify-CTF
